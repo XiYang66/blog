@@ -147,7 +147,7 @@ module.exports = {
     author: '曦杨',
     authorAvatar: '/img/tangmi.jpg',
     record: 'xxxx',
-    startYear: '2017',
+    startYear: '2022',
   },
   // 语言
   locales: {
@@ -272,7 +272,7 @@ module.exports = {
           // 色带HSL亮度量
           colorBrightness: '60%',
           // 带状颜色不透明度
-          colorAlpha: 0.65,
+          colorAlpha: 0.25,
           // 在HSL颜色空间中循环显示颜色的速度有多快
           colorCycleSpeed: 6,
           // 从哪一侧开始Y轴 (top|min, middle|center, bottom|max, random)
